@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22042326&assignment_repo_type=AssignmentRepo)
 # Python insecure and vulnerable demo app
 
 This project is a deliberately vulnerable **FastAPI** application created to demonstrate common web vulnerabilities and how to perform **remediation** to mitigate them. The goal is to provide a practical example of **Data-Driven Development**, where **security audits** and **assessments** guide the development process to improve application security.
